@@ -12,7 +12,7 @@
 ![image](https://github.com/alswjd2432/Toyproj_LLMs/assets/95081711/6648b8c4-7d1c-44d4-8a96-2f88c08b2017)
 
 2. 한국 투자 증권
-   - 기업 소개
+- 기업 소개
 ![image](https://github.com/alswjd2432/Toyproj_LLMs/assets/95081711/4f0983e9-d31c-4725-8e39-bd43bd73a60a)
 
 - 기업의 디지털 역량
