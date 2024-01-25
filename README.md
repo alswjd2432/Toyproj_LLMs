@@ -21,3 +21,4 @@
 - 지원 동기
 ![image](https://github.com/alswjd2432/Toyproj_LLMs/assets/95081711/0b84373d-106a-418e-ae4a-1fcaa939cc2b)
 
+##### 자세한 사항은 'Langchain을 활용해 지원 동기 작성하기.pdf' 확인
